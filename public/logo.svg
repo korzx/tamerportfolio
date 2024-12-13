@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <!-- Kalın T Harfi -->
+  <text x="100" y="450" font-family="Arial" font-weight="bold" font-size="600" fill="black">
+    T
+  </text>
+
+  <!-- 3D Derinlik ve Gölgeleme -->
+  <text x="130" y="480" font-family="Arial" font-weight="bold" font-size="600" fill="gray">
+    T
+  </text>
+</svg>
